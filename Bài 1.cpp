@@ -1,4 +1,4 @@
-﻿//bài 1 tìm và xóa hết các phần tử có giá trị x ở trong mảng A có n phần tử
+﻿//bài 1 C2 tìm và xóa hết các phần tử có giá trị x ở trong mảng A có n phần tử
 
 // input
 // nhập mảng A: 1 2 3 4 5 -1 (để break vòng lặp)
